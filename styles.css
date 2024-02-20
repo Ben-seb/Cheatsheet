@@ -8,7 +8,13 @@ body {
 
 h1 {
    position: absolute;
-   top: 10px;
+   top: 20px;
+}
+h2 {
+    position: absolute;
+    align-items: center;
+    top: 70px;
+
 }
 
 table {
@@ -17,7 +23,7 @@ table {
     border-collapse: collapse;
     font-size: 20px;
     box-shadow: 3px 3px 3px rgba(0, 0,0, 0.1);
-    margin-top: 80px;
+    margin-top: 150px;
 }
 
 th {
