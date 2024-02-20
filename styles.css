@@ -3,8 +3,18 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: auto;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+   position: absolute;
+   top: 20px;
+}
+h2 {
+    position: absolute;
+    align-items: center;
+    top: 70px;
+
 }
 
 table {
@@ -13,7 +23,7 @@ table {
     border-collapse: collapse;
     font-size: 20px;
     box-shadow: 3px 3px 3px rgba(0, 0,0, 0.1);
-    margin-top: 30px;
+    margin-top: 150px;
 }
 
 th {
@@ -25,3 +35,4 @@ th, td {
     padding: 10px 30px;
     text-align: left;
 }
+
