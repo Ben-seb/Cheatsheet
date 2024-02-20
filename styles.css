@@ -6,13 +6,18 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+   position: absolute;
+   top: 10px;
+}
+
 table {
     height: 400px;
     border: 2px solid #EEECD9;
     border-collapse: collapse;
     font-size: 20px;
     box-shadow: 3px 3px 3px rgba(0, 0,0, 0.1);
-    margin-top: 30px;
+    margin-top: 80px;
 }
 
 th {
